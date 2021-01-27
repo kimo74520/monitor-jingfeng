@@ -69,7 +69,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "红外热像监测"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "京丰公众号监控"))
         self.pushButton.setText(_translate("MainWindow", "发送推送测试"))
         self.label.setText(_translate("MainWindow", "等待指令"))
         self.label_2.setText(_translate("MainWindow", "等待指令"))
